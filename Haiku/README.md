@@ -13,9 +13,14 @@ However for the assignment I knew I needed to generate this file in my Haiku fol
 I needed to change the location of where my file was generated.
 Since I went into terminal and did not change my directory level, I should be navigating through my hard drive at the moment, to check this I search my computer for Haiku.aiff, the file i just made.
 I actually found it there but more specifically in the Users Folder under my User folder.
-I then use another command we were taught in class 'cd' to change my directory to the Haiku folder found in my github repository.
+I then use another command we were taught in class 'cd', which can be found here:
+
+[https://github.com/rdwrome/261sp26/tree/4365a91fa74d248b791078e55c4022f0bdc53b6d/01Git%26Shell#command-line] 
+
+to change my directory to the Haiku folder found in my github repository.
 In order to do this I input the command and then I drag my folder into terminal, resulting in a line of code looking like:
-cd /Users/diego-brown/Documents/GitHub/ITP/Haiku 
+
+'cd /Users/diego-brown/Documents/GitHub/ITP/Haiku' 
 
 After seeing my directory change into Haiku, I retyped the sequence to generate the file
 
