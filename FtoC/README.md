@@ -1,4 +1,5 @@
-##FtoC assignment documentation document
+# FtoC assignment documentation document
+
 I first began this assignment by noting which variables I would need to define for the conversion process
 Fahrenheit in this case would need to define, 99, the value that we are trying to convert to Celsius and would represent the variable of Fahrenheit in the conversion equation,
 Celsius = (F-32)5/9 (found in class github)
