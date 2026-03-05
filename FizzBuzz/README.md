@@ -25,7 +25,7 @@ if (mmMIDI === 12) {
 
 This code allows me to set multiple conditions, I need this for the fizz buzz task.
 
-###With these two blocks of code to guide me I began to write my program and started with 
+##With these two blocks of code to guide me I began to write my program and started with 
 ```javascript
 for (let i = 1; i <= 100; i++) {
 	if (i % 3 === 0 && i % 5 === 0) {
